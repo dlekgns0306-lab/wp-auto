@@ -15,7 +15,7 @@ data/used_keywords.json  — 사용 완료 키워드
 - `WP_URL` — WordPress 사이트 URL
 - `WP_USERNAME` — WordPress 관리자 아이디
 - `WP_APP_PASSWORD` — WordPress 앱 비밀번호
-- `DEEPSEEK_API_KEY` — DeepSeek API 키
+- `sk-c772796a70fa43b9a5f9c77c33567078` — DeepSeek API 키
 - `CLAUDE_API_KEY` — Claude API 키 (선택, 폴리싱용)
 - `UNSPLASH_ACCESS_KEY` — Unsplash API 키 (선택, 이미지용)
 - `SUPABASE_URL` — Supabase 프로젝트 URL
